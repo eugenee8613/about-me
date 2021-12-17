@@ -6,3 +6,13 @@ I play basketball, piano, and believe it or not, I play chess
 The school that I go to is Telecommunication School of Arts and Technology
 # Website
 [Visit My GitHub!](https://github.com/eugenee8613/about-me)
+### Schedule
+* **1st Period**: _**Global History**_ 
+* **2nd Period**:_**Gym**_
+* **3rd Period**:_**Ela**_
+* **4th Period**:_**Chemistry**_
+* **5th Period**:_**Spanish**_
+* **6th Period**:_**SEP 10**_
+* **7th Period**:_**Lunch**_
+* **8th Period**:_**Algebra 2**_
+* 
